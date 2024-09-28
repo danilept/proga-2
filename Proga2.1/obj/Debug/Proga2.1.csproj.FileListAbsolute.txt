@@ -1,0 +1,44 @@
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\Proga2.1.exe.config
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\Proga2.1.exe
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\Proga2.1.pdb
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\EntityFramework.dll
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\EntityFramework.xml
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.AssemblyReference.cache
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Properties.Resources.resources
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.GenerateResource.cache
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.Up2Date
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.exe
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2.1.pdb
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2._1.ListForm.resources
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Developer.resources
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Enter_Form.resources
+C:\Users\Egor\Desktop\Проекты\Proga2.1\Proga2.1\obj\Debug\Proga2._1.MainForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\Proga2.1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\Proga2.1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\Proga2.1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\EntityFramework.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.EF6.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.Linq.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\EntityFramework.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2._1.ListForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Developer.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Enter_Form.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2._1.MainForm.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2._1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.csproj.Up2Date
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\Прога\Proga2.1\Proga2.1\obj\Debug\Proga2.1.pdb
